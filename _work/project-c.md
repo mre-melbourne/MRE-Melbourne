@@ -1,5 +1,5 @@
 ---
-date: '2017-08-11T22:27:13.696Z'
+date: '2017-08-11T23:41:04.082Z'
 layout: work
 title: 'Project C'
 description: 'Slack chatbot created for Hackathon C 2017. This should be a short, catchy description of the project.'
