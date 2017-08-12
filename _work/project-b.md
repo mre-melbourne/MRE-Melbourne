@@ -3,7 +3,7 @@ date: '2017-08-12T06:53:27.179Z'
 layout: work
 title: 'Meal Kit B (24 Hours)'
 description: 'Salmon and Rice'
-thumbnail: project_b_thumb.png
+thumbnail: stew-750846_640.jpg
 ---
 **Breakfast**
 
