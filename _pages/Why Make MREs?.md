@@ -1,7 +1,7 @@
 ---
 date: '2017-08-12T06:53:26.882Z'
 layout: page
-title: 'Why make MREs?'
+title: 'Why Make MREs?'
 ---
 MREs - Meal, Ready-to-Eat
 
