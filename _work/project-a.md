@@ -1,7 +1,7 @@
 ---
 date: '2017-08-12T06:53:27.210Z'
 layout: work
-title: 'Meal Kit B (24 Hours)'
+title: 'Meal Kit A (24 Hours)'
 description: 'Chicken and crackers'
 thumbnail: project_a_thumb.png
 ---
