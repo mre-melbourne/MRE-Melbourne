@@ -3,7 +3,7 @@ date: '2017-08-12T06:53:27.189Z'
 layout: work
 title: 'Project E'
 description: 'Undergraduate thesis project at University of E. This should be a short, catchy description of the project.'
-thumbnail: project_e_thumb.png
+thumbnail: stew-750846_640.jpg
 ---
 Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
 

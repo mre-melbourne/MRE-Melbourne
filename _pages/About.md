@@ -7,8 +7,8 @@ MREs - Meal, Ready-to-Eat
 
 Common civilian uses:
 
-*   Failed Supermarket Resupply Shipment
 *   Food Shortage / Food Security Issue
+*   Extreme Weather Event (i.e. Cyclone)
 *   Building Evacuation (i.e. Fire)
 *   Easy DIY Gym Meals
 *   Camping and Travel
