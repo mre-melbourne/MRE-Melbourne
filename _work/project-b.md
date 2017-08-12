@@ -1,11 +1,17 @@
 ---
 date: '2017-08-12T06:53:27.179Z'
 layout: work
-title: 'Project B'
-description: 'Redesigning site B as a single-page React app. This should be a short, catchy description of the project.'
+title: 'Meal Kit A (24 Hours)'
+description: 'Salmon and Rice'
 thumbnail: project_b_thumb.png
 ---
-Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
+**Breakfast**
+
+**Main Meal**
+
+Salmon (Lemon and Dill Flavoured)
+
+Rice
 
 Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Aenean lacinia bibendum nulla sed consectetur. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nulla vitae elit libero, a pharetra augue. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
 

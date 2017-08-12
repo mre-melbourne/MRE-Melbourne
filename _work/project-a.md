@@ -1,10 +1,14 @@
 ---
 date: '2017-08-12T06:53:27.210Z'
 layout: work
-title: 'Project A'
-description: 'UX and app development for Client A. This should be a short, catchy description of the project.'
+title: Project-A
+description: 'Chicken and crackers'
 thumbnail: project_a_thumb.png
 ---
+**Main Meal**
+
+Chicken spread on crackers
+
 Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
 
 Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Aenean lacinia bibendum nulla sed consectetur. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nulla vitae elit libero, a pharetra augue. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
