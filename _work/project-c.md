@@ -1,8 +1,8 @@
 ---
 date: '2017-08-12T06:53:27.236Z'
 layout: work
-title: 'Project C'
-description: 'Slack chatbot created for Hackathon C 2017. This should be a short, catchy description of the project.'
+title: 'Meal Kit C (24 Hours)'
+description: TBA
 thumbnail: fire-2601298_640.jpg
 ---
 Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.

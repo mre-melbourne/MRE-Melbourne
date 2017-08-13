@@ -1,9 +1,9 @@
 ---
 date: '2017-08-12T06:53:27.182Z'
 layout: work
-title: 'Project D'
-description: 'Contract branding and graphic design work for Company D. This should be a short, catchy description of the project.'
-thumbnail: camping-984094_640.jpg
+title: 'Meal Kit D (24 Hours)'
+description: TBA
+thumbnail: grill-2616488_640.jpg
 ---
 Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
 
