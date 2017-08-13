@@ -2,7 +2,7 @@
 date: '2017-08-12T06:53:27.210Z'
 layout: work
 title: 'Meal Kit A (24 Hours)'
-description: 'Chicken and crackers'
+description: 'Chicken and Crackers'
 thumbnail: food-2589093_640.jpg
 ---
 **Main Meal**
